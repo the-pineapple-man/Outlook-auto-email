@@ -1,2 +1,2 @@
 # Outlook-auto-email
-spams emails to people on outlook using pyautogui
+Outlook Auto Emailer Automatically sends people emails using outlook. Still early development.
