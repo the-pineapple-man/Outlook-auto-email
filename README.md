@@ -1,5 +1,5 @@
 # Outlook-auto-email
-Outlook Auto Emailer Automatically sends people emails using outlook. Still early development.
+An automated email sender built with Outlook integration. Early development stage.
 Required modules:
   Pyautogui
   Keboard
